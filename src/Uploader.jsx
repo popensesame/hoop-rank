@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import './Uploader.css';
 
 export default function Uploader({ setTeamNames }) {

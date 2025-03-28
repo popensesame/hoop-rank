@@ -27,6 +27,14 @@ function App() {
   const [teamNames, setTeamNames] = useState(null);
   const [teams, setTeams] = useState(null);
 
+  // get top four teams from local storage
+  const topFourTeams = localStorage.getItem('topFourTeams');
+  if (topFourTeams && !teams) {
+    const topFour = JSON.parse(topFourTeams);
+    const teams = topFour.map((team) => new Team(team.name, team.score));
+    setTeams(teams);
+  }
+
   useEffect(() => {
     const analyzeTeams = async () => {
       if (Array.isArray(teamNames)) {
@@ -41,6 +49,7 @@ function App() {
         }
         const topFour = teams.sort((a, b) => b.score - a.score).slice(0, 4);
         setTeams(topFour);
+        localStorage.setItem('topFourTeams', JSON.stringify(topFour)); // Store topFour in local storage
       }
     };
     analyzeTeams();

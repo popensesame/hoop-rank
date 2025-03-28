@@ -1,11 +1,13 @@
 //import teamStats from '../teamStats.json';
 const NCAA_LEAGUE_ID = 116;
 const API_KEY = import.meta.env.VITE_API_KEY;
+const BASE_URL = import.meta.env.VITE_BASE_URL;
 
 export class Team {
 
-  constructor(name) {
+  constructor(name, score) {
     this.name = name;
+    this.score = score;
   }
 
   /**
@@ -15,7 +17,7 @@ export class Team {
    * @returns A Promise resolving to the API response.
    */
   async get(path, queryParams) {
-      let url = `/api/${path}`;
+      let url = `${BASE_URL}/${path}`;
 
       // Append query parameters to the URL
       if (queryParams) {

@@ -72,7 +72,7 @@ export default function ResultsPage({ teams }) {
     const blob = new Blob([csvContent], { type: "text/csv" });
     const link = document.createElement("a");
     link.href = URL.createObjectURL(blob);
-    link.download = "teams.csv";
+    link.download = "team_ranks.csv";
     link.click();
   };
 

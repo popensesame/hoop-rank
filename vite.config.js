@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/hoop-rank/', // Ensure this matches your GitHub Pages deployment path
+  base: '/hoop-rank/', // Replace <repository-name> with your GitHub repository name
   server: {
     proxy: {
       '/api': {
