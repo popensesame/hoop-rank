@@ -1,0 +1,2428 @@
+[
+  {
+    "id": 178,
+    "name": "BIG3",
+    "type": "cup",
+    "logo": "https://media.api-sports.io/basketball/leagues/178.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "start": "2023-06-25",
+        "end": "2023-08-26",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2022,
+        "start": "2022-06-18",
+        "end": "2022-08-21",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2024,
+        "start": "2024-06-15",
+        "end": "2024-08-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2019,
+        "start": "2019-06-23",
+        "end": "2019-09-01",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2021,
+        "start": "2021-07-10",
+        "end": "2021-09-04",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2018,
+        "start": "2018-06-22",
+        "end": "2018-08-25",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "name": "California Classic",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/376.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "start": "2024-07-06",
+        "end": "2024-07-11",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": false
+        }
+      },
+      {
+        "season": 2022,
+        "start": "2022-07-02",
+        "end": "2022-07-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2023,
+        "start": "2023-07-03",
+        "end": "2023-07-06",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "CBI",
+    "type": "cup",
+    "logo": "https://media.api-sports.io/basketball/leagues/15.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "start": "2021-03-22",
+        "end": "2021-03-25",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2016,
+        "start": "2016-03-15",
+        "end": "2016-04-02",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2019,
+        "start": "2019-03-20",
+        "end": "2019-04-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2025,
+        "start": "2025-03-23",
+        "end": "2025-03-26",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": true
+        }
+      },
+      {
+        "season": 2017,
+        "start": "2017-03-15",
+        "end": "2017-03-31",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2015,
+        "start": "2015-03-18",
+        "end": "2015-04-02",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2022,
+        "start": "2022-03-19",
+        "end": "2022-03-23",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2014,
+        "start": "2014-03-18",
+        "end": "2014-04-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2018,
+        "start": "2018-03-14",
+        "end": "2018-03-30",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2011,
+        "start": "2011-03-15",
+        "end": "2011-04-02",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2012,
+        "start": "2012-03-14",
+        "end": "2012-03-30",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2013,
+        "start": "2013-03-19",
+        "end": "2013-04-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2023,
+        "start": "2023-03-18",
+        "end": "2023-03-22",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2024,
+        "start": "2024-03-23",
+        "end": "2024-03-27",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "CIT",
+    "type": "cup",
+    "logo": "https://media.api-sports.io/basketball/leagues/16.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "start": "2019-03-18",
+        "end": "2019-04-04",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2015,
+        "start": "2015-03-16",
+        "end": "2015-04-02",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2020,
+        "start": "2024-03-19",
+        "end": "2024-03-27",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2011,
+        "start": "2011-03-14",
+        "end": "2011-03-31",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2012,
+        "start": "2012-03-13",
+        "end": "2012-03-29",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2013,
+        "start": "2013-03-19",
+        "end": "2013-04-03",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2014,
+        "start": "2014-03-17",
+        "end": "2014-04-04",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2016,
+        "start": "2016-03-14",
+        "end": "2016-03-29",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2017,
+        "start": "2017-03-14",
+        "end": "2017-04-01",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2018,
+        "start": "2018-03-13",
+        "end": "2018-03-30",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "IBL",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/175.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2014,
+        "start": "2014-04-06",
+        "end": "2014-06-30",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2013,
+        "start": "2013-04-20",
+        "end": "2013-07-06",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2015,
+        "start": "2015-06-27",
+        "end": "2015-08-23",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "NBA",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/12.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": "2009-2010",
+        "start": "2009-10-09",
+        "end": "2010-06-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2021-2022",
+        "start": "2021-10-03",
+        "end": "2022-06-17",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2011-2012",
+        "start": "2011-12-17",
+        "end": "2012-06-22",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2022-2023",
+        "start": "2022-09-30",
+        "end": "2023-06-13",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2012-2013",
+        "start": "2012-10-07",
+        "end": "2013-06-21",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2020-2021",
+        "start": "2020-12-12",
+        "end": "2021-07-21",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2010-2011",
+        "start": "2010-10-04",
+        "end": "2011-06-13",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2019-2020",
+        "start": "2019-10-04",
+        "end": "2020-10-11",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2024-2025",
+        "start": "2024-10-04",
+        "end": "2025-04-13",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": true
+        }
+      },
+      {
+        "season": "2018-2019",
+        "start": "2018-09-28",
+        "end": "2019-05-24",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2008-2009",
+        "start": "2008-10-09",
+        "end": "2009-06-15",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2017-2018",
+        "start": "2017-10-01",
+        "end": "2018-06-09",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2013-2014",
+        "start": "2013-10-05",
+        "end": "2014-06-16",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2016-2017",
+        "start": "2016-10-01",
+        "end": "2017-06-13",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2014-2015",
+        "start": "2014-10-04",
+        "end": "2015-06-17",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2015-2016",
+        "start": "2015-10-03",
+        "end": "2016-06-20",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2023-2024",
+        "start": "2023-10-05",
+        "end": "2024-06-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "NBA - G League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/20.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": "2016-2017",
+        "start": "2016-11-12",
+        "end": "2017-04-27",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2014-2015",
+        "start": "2014-11-15",
+        "end": "2015-04-26",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2015-2016",
+        "start": "2015-11-13",
+        "end": "2016-04-28",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2012-2013",
+        "start": "2012-11-24",
+        "end": "2013-04-28",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2013-2014",
+        "start": "2013-11-23",
+        "end": "2014-04-26",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2021-2022",
+        "start": "2021-12-27",
+        "end": "2022-04-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2022-2023",
+        "start": "2022-11-04",
+        "end": "2023-04-07",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2017-2018",
+        "start": "2017-11-03",
+        "end": "2018-04-11",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2023-2024",
+        "start": "2021-10-02",
+        "end": "2024-04-16",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2018-2019",
+        "start": "2018-11-02",
+        "end": "2019-04-13",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2024-2025",
+        "start": "2024-11-09",
+        "end": "2025-03-30",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2020-2021",
+        "start": "2021-02-10",
+        "end": "2021-03-11",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2019-2020",
+        "start": "2019-11-09",
+        "end": "2020-03-29",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "NBA - Las Vegas Summer League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/17.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "start": "2024-07-12",
+        "end": "2024-07-23",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": false
+        }
+      },
+      {
+        "season": 2022,
+        "start": "2022-07-08",
+        "end": "2022-07-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2023,
+        "start": "2023-07-07",
+        "end": "2023-07-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": false
+        }
+      },
+      {
+        "season": 2021,
+        "start": "2021-08-08",
+        "end": "2021-08-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2013,
+        "start": "2013-07-12",
+        "end": "2013-07-23",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2018,
+        "start": "2018-07-06",
+        "end": "2018-07-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2015,
+        "start": "2015-07-10",
+        "end": "2015-07-21",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2017,
+        "start": "2017-07-07",
+        "end": "2017-07-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2014,
+        "start": "2014-07-11",
+        "end": "2014-07-22",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2016,
+        "start": "2016-07-08",
+        "end": "2016-07-19",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2019,
+        "start": "2019-07-05",
+        "end": "2019-07-16",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "NBA - Sacramento Summer League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/21.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2018,
+        "start": "2018-07-03",
+        "end": "2018-07-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2019,
+        "start": "2019-07-02",
+        "end": "2019-07-03",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2021,
+        "start": "2021-08-04",
+        "end": "2021-08-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "NBA - Utah Summer League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/19.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2018,
+        "start": "2018-07-02",
+        "end": "2018-07-06",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2017,
+        "start": "2017-07-03",
+        "end": "2017-07-07",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2016,
+        "start": "2016-07-04",
+        "end": "2016-07-08",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2015,
+        "start": "2015-07-06",
+        "end": "2015-07-10",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2019,
+        "start": "2019-07-01",
+        "end": "2019-07-04",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "name": "NBA Cup",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/422.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "start": "2024-12-11",
+        "end": "2024-12-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "name": "NBA In-Season Tournament",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/404.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "start": "2023-12-05",
+        "end": "2023-12-10",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "NBA Orlando Summer League",
+    "type": "cup",
+    "logo": "https://media.api-sports.io/basketball/leagues/176.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2015,
+        "start": "2015-07-04",
+        "end": "2015-07-10",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2014,
+        "start": "2014-07-05",
+        "end": "2014-07-11",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2016,
+        "start": "2016-07-02",
+        "end": "2016-07-08",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2013,
+        "start": "2013-07-07",
+        "end": "2013-07-12",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2017,
+        "start": "2017-07-01",
+        "end": "2017-07-06",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "name": "NBA Salt Lake City Summer League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/274.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "start": "2024-07-08",
+        "end": "2024-07-11",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": false
+        }
+      },
+      {
+        "season": 2021,
+        "start": "2021-08-03",
+        "end": "2021-08-07",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2023,
+        "start": "2023-07-03",
+        "end": "2023-07-07",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2022,
+        "start": "2022-07-05",
+        "end": "2022-07-08",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "NBA W",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2010,
+        "start": "2010-05-15",
+        "end": "2010-09-17",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2018,
+        "start": "2018-05-06",
+        "end": "2018-09-13",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2015,
+        "start": "2015-06-05",
+        "end": "2015-10-15",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2017,
+        "start": "2017-04-29",
+        "end": "2017-10-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2008,
+        "start": "2008-05-17",
+        "end": "2008-10-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2016,
+        "start": "2016-05-14",
+        "end": "2016-10-21",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2014,
+        "start": "2014-05-16",
+        "end": "2014-09-13",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2019,
+        "start": "2019-05-10",
+        "end": "2020-10-06",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2025,
+        "start": "2025-05-03",
+        "end": "2025-09-12",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2021,
+        "start": "2021-05-14",
+        "end": "2021-10-17",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2013,
+        "start": "2013-05-25",
+        "end": "2013-10-11",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2022,
+        "start": "2022-05-06",
+        "end": "2022-09-18",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2012,
+        "start": "2012-05-19",
+        "end": "2012-10-22",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2024,
+        "start": "2024-05-14",
+        "end": "2024-10-21",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": true,
+              "players": true
+            }
+          },
+          "standings": true,
+          "players": true,
+          "odds": false
+        }
+      },
+      {
+        "season": 2023,
+        "start": "2023-05-06",
+        "end": "2023-10-19",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2009,
+        "start": "2009-06-06",
+        "end": "2009-10-10",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2011,
+        "start": "2011-06-04",
+        "end": "2011-10-08",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "NCAA",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/116.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": "2021-2022",
+        "start": "2021-11-09",
+        "end": "2022-04-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2022-2023",
+        "start": "2022-11-07",
+        "end": "2023-04-04",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2019-2020",
+        "start": "2019-11-22",
+        "end": "2020-03-14",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2023-2024",
+        "start": "2023-11-06",
+        "end": "2024-04-09",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2020-2021",
+        "start": "2020-11-25",
+        "end": "2021-04-06",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2024-2025",
+        "start": "2024-11-04",
+        "end": "2025-03-30",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "name": "NCAA Women",
+    "type": "League",
+    "logo": "https://media.api-sports.io/basketball/leagues/423.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": "2024-2025",
+        "start": "2024-11-10",
+        "end": "2025-03-30",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "NIT",
+    "type": "cup",
+    "logo": "https://media.api-sports.io/basketball/leagues/14.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "start": "2019-03-19",
+        "end": "2019-04-04",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2024,
+        "start": "2024-03-19",
+        "end": "2024-04-04",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2021,
+        "start": "2021-03-17",
+        "end": "2021-03-28",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2025,
+        "start": "2025-03-18",
+        "end": "2025-04-02",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": true
+        }
+      },
+      {
+        "season": 2022,
+        "start": "2022-03-15",
+        "end": "2022-03-31",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2015,
+        "start": "2015-03-17",
+        "end": "2015-04-03",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2014,
+        "start": "2014-03-18",
+        "end": "2014-04-03",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2013,
+        "start": "2013-03-19",
+        "end": "2013-04-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2012,
+        "start": "2012-03-13",
+        "end": "2012-03-29",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2011,
+        "start": "2011-03-15",
+        "end": "2011-03-31",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2023,
+        "start": "2023-03-14",
+        "end": "2023-03-31",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2016,
+        "start": "2016-03-15",
+        "end": "2016-03-31",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2017,
+        "start": "2017-03-14",
+        "end": "2017-03-31",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": 2018,
+        "start": "2018-03-13",
+        "end": "2018-03-29",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Vegas 16",
+    "type": "cup",
+    "logo": "https://media.api-sports.io/basketball/leagues/177.png",
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "seasons": [
+      {
+        "season": 2016,
+        "start": "2016-03-28",
+        "end": "2016-03-31",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      }
+    ]
+  }
+]
