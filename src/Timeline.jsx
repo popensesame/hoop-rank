@@ -15,18 +15,18 @@ export default function LeftPositionedTimeline({ pageName }) {
           <TimelineDot sx={{ backgroundColor: pageName === "upload" ? "black" : "lightgray" }} />
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent sx={{ minWidth: '70px' }}>upload</TimelineContent>
+        <TimelineContent sx={{ minWidth: '70px', fontWeight: pageName === "upload" ? "bold" : "initial" }}>upload</TimelineContent>
       </TimelineItem>
       <TimelineItem>
         <TimelineSeparator>
           <TimelineDot sx={{ backgroundColor: pageName === "evaluate" ? "black" : "lightgray" }} />
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent sx={{ minWidth: '70px' }}>evaluate</TimelineContent>
+        <TimelineContent sx={{ minWidth: '70px', fontWeight: pageName === "evaluate" ? "bold" : "initial"  }}>evaluate</TimelineContent>
       </TimelineItem>
       <TimelineItem>
         <TimelineSeparator>
-          <TimelineDot sx={{ backgroundColor: pageName === "results" ? "black" : "lightgray" }} />
+          <TimelineDot sx={{ backgroundColor: pageName === "results" ? "black" : "lightgray", fontWeight: pageName === "results" ? "bold" : "initial" }} />
         </TimelineSeparator>
         <TimelineContent sx={{ minWidth: '70px' }}>results</TimelineContent>
       </TimelineItem>

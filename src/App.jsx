@@ -66,6 +66,8 @@ function App() {
   }, [pageName])
 
   return (
+    <>
+    <div id="base-blur"></div>
     <div id="base">
       <LeftPositionedTimeline pageName={ pageName } />
       <div className="pane">
@@ -81,6 +83,7 @@ function App() {
       </div>
       <Uploader setTeamNames={setTeamNames} />
     </div>
+    </>
   );
 }
 
