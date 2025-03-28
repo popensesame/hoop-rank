@@ -6,30 +6,31 @@ import TimelineConnector from '@mui/lab/TimelineConnector';
 import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 
-export default function LeftPositionedTimeline({ setPageName }) {
+export default function LeftPositionedTimeline({ pageName }) {
   return (
-    <Timeline position="left">
-      <TimelineItem onClick={ () => setPageName('upload') }>
+    <div className="timeline-container">
+    <Timeline sx={{ fontSize: '20px'}} position="left">
+      <TimelineItem>
         <TimelineSeparator>
-          <TimelineDot />
+          <TimelineDot sx={{ backgroundColor: pageName === "upload" ? "black" : "lightgray" }} />
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent>Upload</TimelineContent>
+        <TimelineContent sx={{ minWidth: '70px' }}>upload</TimelineContent>
       </TimelineItem>
-      <TimelineItem onClick={ () => setPageName('evaluate') }>
+      <TimelineItem>
         <TimelineSeparator>
-          <TimelineDot />
+          <TimelineDot sx={{ backgroundColor: pageName === "evaluate" ? "black" : "lightgray" }} />
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent>Evaluate</TimelineContent>
+        <TimelineContent sx={{ minWidth: '70px' }}>evaluate</TimelineContent>
       </TimelineItem>
-      <TimelineItem onClick={ () => setPageName('results') }>
+      <TimelineItem>
         <TimelineSeparator>
-          <TimelineDot />
-          <TimelineConnector />
+          <TimelineDot sx={{ backgroundColor: pageName === "results" ? "black" : "lightgray" }} />
         </TimelineSeparator>
-        <TimelineContent>Results</TimelineContent>
+        <TimelineContent sx={{ minWidth: '70px' }}>results</TimelineContent>
       </TimelineItem>
     </Timeline>
+    </div>
   );
 }

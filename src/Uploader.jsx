@@ -1,14 +1,13 @@
 import React, { useState } from "react";
+import './Uploader.css';
 
 export default function Uploader({ setTeamNames }) {
-  const [fileContent, setFileContent] = useState("");
 
   const handleFileUpload = (event) => {
     const file = event.target.files[0];
     if (file) {
       const reader = new FileReader();
       reader.onload = (e) => {
-        setFileContent(e.target.result);
         const teamNames = e.target.result.split('\n');
         setTeamNames(teamNames);
       };
@@ -17,17 +16,13 @@ export default function Uploader({ setTeamNames }) {
   };
 
   return (
-    <>
-      <div className="pane">
-        <h2>Upload CSV File</h2>
+    <div className="uploader-container">
+      <div className="uploader-content">
+        <h1>pick</h1>
+        <h1>rank</h1>
+        <h1>DOMINATE</h1>
         <input type="file" accept=".csv" onChange={handleFileUpload} />
-        {fileContent && (
-          <div>
-            <h3>File Content:</h3>
-            <pre>{fileContent}</pre>
-          </div>
-        )}
       </div>
-    </>
+    </div>
   );
 }

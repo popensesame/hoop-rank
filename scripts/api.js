@@ -1,6 +1,7 @@
 const NCAA_LEAGUE_ID = 116;
 const API_KEY = import.meta.env.VITE_API_KEY; // Get API key from environment
-const BASE_URL = "https://v1.basketball.api-sports.io/"; // Ensure this matches the proxy path
+//const BASE_URL = "https://v1.basketball.api-sports.io/"; // Ensure this matches the proxy path
+const BASE_URL = "/api";
 
 export default class ApiClient {
   constructor() {
@@ -24,6 +25,7 @@ export default class ApiClient {
       }
 
       try {
+          console.log(url);
           const response = await fetch(url, {
               method: "GET",
               headers: {
@@ -76,7 +78,7 @@ export default class ApiClient {
   }
 }
 
-const apiClient = new ApiClient();
+//const apiClient = new ApiClient();
 
 /*
 // Example: Fetch teams with a specific name

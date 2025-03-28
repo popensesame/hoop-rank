@@ -1,18 +1,52 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
   padding: 2rem;
+  background-image: url('./assets/basketball_background_plain.png'); /* Add background image */
+  background-size: cover; /* Ensure the image covers the entire area */
+  background-position: center; /* Center the image */
   /* text-align: center; */
 }
 
+.evaluate-page {
+  position: relative;
+  top: 45%;
+  left: 45%;
+}
+
+.results-page {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Ensure it spans the full height of its container */
+}
+
+.upload-page {
+  color: white;
+  padding-top: 40%;
+  padding-left: 10%;
+  font-size: 25px;
+}
+
+.timeline-container {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 15px 0 0 15px;
+  align-items: center;
+}
+
 #base {
+  padding: 2rem;
+  border: 1px solid black;
+  border-radius: 10px;
   display: flex;
   flex-direction: row;
-  border: 1px solid black;
 }
 
 .pane {
-  width: 200px;
+  width: 500px;
 }
 
 

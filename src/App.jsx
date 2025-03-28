@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect } from 'react'
 import LeftPositionedTimeline from './Timeline';
 import './App.css'
@@ -33,11 +34,13 @@ function App() {
         const teams = [];
         for (const teamName of teamNames) {
           const team = new Team(teamName);
+          await team.getStats();
           const score = computeScore(team);
           team.score = score;
           teams.push(team);
         }
-        setTeams(teams);
+        const topFour = teams.sort((a, b) => b.score - a.score).slice(0, 4);
+        setTeams(topFour);
       }
     };
     analyzeTeams();
@@ -55,7 +58,7 @@ function App() {
 
   return (
     <div id="base">
-      <LeftPositionedTimeline setPageName={setPageName} />
+      <LeftPositionedTimeline pageName={ pageName } />
       <div className="pane">
         {
           pageName === "upload" && <UploadPage setPageName={setPageName} />
@@ -69,7 +72,7 @@ function App() {
       </div>
       <Uploader setTeamNames={setTeamNames} />
     </div>
-  )
+  );
 }
 
 export default App

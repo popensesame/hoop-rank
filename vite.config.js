@@ -1,7 +1,15 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
 
-// https://vite.dev/config/
 export default defineConfig({
-  plugins: [react()],
-})
+  base: '/hoop-rank/', // Ensure this matches your GitHub Pages deployment path
+  server: {
+    proxy: {
+      '/api': {
+        target: 'https://v1.basketball.api-sports.io',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api/, ''), // Remove '/api' prefix
+      },
+    },
+  },
+  envPrefix: 'VITE_', // Ensure Vite uses variables prefixed with VITE_
+});
